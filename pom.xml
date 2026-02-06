@@ -89,6 +89,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-	</build>
+        <finalName>spring-security-images-new</finalName>
 
+    </build>
 </project>
